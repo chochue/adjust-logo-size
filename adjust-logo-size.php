@@ -1,10 +1,14 @@
 <?php
 /*
 Plugin Name: Adjust Logo Size
+Plugin URI: https://github.com/chochue/adjust-logo-size.git
 Description: Ajusta el tamaño del logo al subirlo, manteniendo la proporción y añadiendo relleno blanco si es necesario.
-Version: 1.1
+Version: 1.1.0
 Author: LSC Josue Arturo Crisanto Luna
+Author URI: https://tusitio.com
+GitHub Plugin URI: https://github.com/chochue/adjust-logo-size.git
 */
+
 
 function resize_logo_image($file_path) {
     // Verificar si el archivo existe
