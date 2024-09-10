@@ -37,6 +37,10 @@ Si deseas contribuir al desarrollo de este plugin:
 
 ## Registro de Cambios
 
+### v1.2.0
+
+- Se quitaron los logs 
+
 ### v1.1.0
 
 - Redimensionado de imágenes de logotipo a 400x400 píxeles.
